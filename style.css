@@ -1,0 +1,52 @@
+
+header{
+    text-align: center;
+    font-size: 30px;
+}
+
+p{
+    margin-left: 70px;
+    margin-right: 20px;
+    font-size: 25px;
+}
+
+.logo img{
+    height: 100px;
+    width: 100px;
+    margin-left: 20px;
+}
+
+.logo p{
+    margin-left: 140px;
+    margin-top: -110px;
+    margin-right: 20px;
+}
+
+h3{
+    margin-left: 170px;
+    font-size: 25px;
+}
+.history{
+    margin-left: 40px;
+    margin-right: 70px;
+}
+
+.sposops h3{
+    margin-top: 10px;
+    font-size: 30px;
+}
+.sposops p{   
+    font-size: 25px;
+}
+.wrapper {
+    display: flex;
+  }
+.sposops img{
+    margin: 90px;
+    width: 500px;
+    height: 600px;
+}
+
+.supervisedlearning{
+    margin-top: 50px;
+}
